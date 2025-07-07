@@ -1,5 +1,5 @@
 server:
-  port: ${PORT:${SERVER_PORT:8086}}
+  port: ${PORT:${SERVER_PORT:2020}}
 
 spring:
   application:
